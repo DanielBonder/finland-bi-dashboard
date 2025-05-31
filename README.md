@@ -28,7 +28,7 @@ It explores key aspects of Finland's society, government, health system, economy
 
 - Daniel Bonder  
 - Yossi Chen-Baadash  
-- Asher Akuka  
+
 
 ## 🎓 Academic Context
 
