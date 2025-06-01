@@ -1,48 +1,75 @@
-# Finland – Data Analysis & Policy Report
+<h1 align="center">🇫🇮 Finland – Data Analysis & Policy Report</h1>
 
-This academic project was completed as part of the **Introduction to Data Analytics** course at **Tel-Hai College**.  
-It explores key aspects of Finland's society, government, health system, economy, education, and transportation using both qualitative research and visualized data.
+<p align="center">
+  📊 Academic project combining <b>data analytics</b> and <b>policy research</b> <br>
+  Built with <b>Excel</b>, <b>Power Query</b>, <b>VLOOKUP</b>, and <b>pivot tables</b>
+</p>
 
-## 📊 Project Overview
+<p align="center">
+  🎓 <b>Tel-Hai College</b> • <i>Introduction to Data Analytics</i> • July 2024
+</p>
 
-- Country profile: political system, historical background, and demographic trends
-- Public health analysis, including COVID-19 impact and healthcare structure
-- Education system: access, outcomes, and global standing
-- Economic indicators: GDP, taxation, transportation, and innovation
-- Sustainability and green mobility (urban cycling, public transport)
+---
 
-## 📁 Files Included
+## 📌 Overview
 
-- `Finland_Presentation.pdf` – visual summary with key insights and data highlights  
-- `project_Report.docx` – full written report including sources and structured analysis  
-- `Finland-3.xlsx` – raw data and visuals used for charts and graphs  
-- *(Optional: Add screenshots or charts to a `/visuals` folder)*
+This project explores core aspects of Finland’s society and governance, combining desk research with hands-on Excel-based data analysis.
+
+### Key Topics:
+- 🏛️ Political system, historical background, and demographics  
+- 🩺 Public health indicators and COVID-19 impact  
+- 🎓 Education structure and performance  
+- 💶 Economy, GDP, taxation, innovation  
+- 🚲 Sustainability and urban mobility  
+
+---
+
+## 📁 Included Files
+
+| File | Description |
+|------|-------------|
+| `Finland_Presentation.pdf` | Visual summary with data highlights |
+| `project_Report.docx` | Full written report with sources and structure |
+| `Finland-3.xlsx` | Excel file with data tables, VLOOKUPs, and pivot charts |
+
+> 💡 Optionally, include screenshots or export visuals to a `/visuals/` folder.
+
+---
 
 ## 🛠️ Tools & Methods
 
-- Microsoft Excel (data organization and charting)
-- Microsoft PowerPoint (data storytelling and presentation design)
-- Desk research from official European and Finnish data sources
+- **Excel**: pivot tables, VLOOKUP, Power Query  
+- **PowerPoint**: storytelling and visual summaries  
+- **Research**: government & EU official data portals
 
-## 👤 Contributors
+---
 
-- Daniel Bonder  
-- Yossi Chen-Baadash  
+## 👥 Contributors
 
+- **Daniel Bonder**  
+- **Yossi Chen-Baadash**
+
+---
 
 ## 🎓 Academic Context
 
 Course: *Introduction to Data Analytics*  
-Instructor: Amos Shealtiel  
-Faculty of Business Administration, Tel-Hai College  
-Date: July 2024
+Instructor: **Amos Shealtiel**  
+Faculty of Business Administration, **Tel-Hai College**
+
+---
 
 ## 💬 Summary
 
-This project demonstrates our ability to combine data, policy review, and communication into an integrated country profile.  
-It showcases analytical thinking, data literacy, and clear presentation of complex information — skills essential for modern data analysts and policy researchers.
+This project showcases our skills in:
+- 🔍 Analytical thinking and policy interpretation  
+- 📈 Data literacy and Excel expertise  
+- 🗣️ Communicating insights through visuals and reports
 
-## 🔗 Contact
+---
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/daniel-bonder1/) for further discussion or collaboration.
+## 📫 Contact
+
+📧 [danielbonder123@gmail.com](mailto:danielbonder123@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bonder1/)
 
