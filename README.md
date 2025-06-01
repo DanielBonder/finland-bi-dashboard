@@ -36,6 +36,12 @@ This project explores core aspects of Finland’s society and governance, combin
 
 ---
 
+
+
+## 🖼️ Dashboard Preview
+
+![Dashboard](./Dashboard.png)
+
 ## 🛠️ Tools & Methods
 
 - **Excel**: pivot tables, VLOOKUP, Power Query  
